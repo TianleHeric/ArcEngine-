@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DesktopWindowsApp\Commands\bin\Debug\Commands.dll
+C:\Users\Administrator\Desktop\DesktopWindowsApp\Commands\bin\Debug\Commands.pdb
+C:\Users\Administrator\Desktop\DesktopWindowsApp\Commands\bin\Debug\Commands.tlb
+C:\Users\Administrator\Desktop\DesktopWindowsApp\Commands\obj\Debug\Commands.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesktopWindowsApp\Commands\obj\Debug\Commands.dll
+C:\Users\Administrator\Desktop\DesktopWindowsApp\Commands\obj\Debug\Commands.pdb

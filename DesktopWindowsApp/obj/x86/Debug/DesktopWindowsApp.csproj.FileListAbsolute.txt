@@ -1,0 +1,35 @@
+D:\heric's projects\htl VIsualStdio\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\DesktopWindowsApp.exe
+D:\heric's projects\htl VIsualStdio\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\DesktopWindowsApp.pdb
+D:\heric's projects\htl VIsualStdio\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.csprojResolveAssemblyReference.cache
+D:\heric's projects\htl VIsualStdio\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.Form1.resources
+D:\heric's projects\htl VIsualStdio\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.Properties.Resources.resources
+D:\heric's projects\htl VIsualStdio\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.csproj.GenerateResource.Cache
+D:\heric's projects\htl VIsualStdio\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.exe
+D:\heric's projects\htl VIsualStdio\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.pdb
+G:\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\DesktopWindowsApp.exe
+G:\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\DesktopWindowsApp.pdb
+G:\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.Form1.resources
+G:\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.Properties.Resources.resources
+G:\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.csproj.GenerateResource.Cache
+G:\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.exe
+G:\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.pdb
+G:\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\gis\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.exe
+C:\Users\gis\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.pdb
+C:\Users\gis\Desktop\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\DesktopWindowsApp.exe
+C:\Users\gis\Desktop\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\DesktopWindowsApp.pdb
+C:\Users\gis\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\gis\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.Form1.resources
+C:\Users\gis\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.Properties.Resources.resources
+C:\Users\gis\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.exe
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.pdb
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\DesktopWindowsApp.exe
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\DesktopWindowsApp.pdb
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.Form1.resources
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\obj\x86\Debug\DesktopWindowsApp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\DesktopWindowsApp.exe.config
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\Commands.dll
+C:\Users\Administrator\Desktop\DesktopWindowsApp\DesktopWindowsApp\bin\Debug\Commands.pdb
